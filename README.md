@@ -1,12 +1,11 @@
 ### hello! Eu sou o João Paulo 👋
 
-### Sobre mim
-
+### Sobre mim.
 * 💻 Estudante  de Redes de Computadores com foco em: [ DevOps | SRE | Cloud ]
 
 * 👩‍💻 support analyst jr pela CompassUOL
 
-### Tecnologias e Ferramentas
+### Tecnologias e Ferramentas ⚙️
 <div style="display: inline_block"><br>
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
