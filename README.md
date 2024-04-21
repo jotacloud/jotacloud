@@ -1,4 +1,4 @@
-## hello! Eu sou o João Paulo 👋
+### hello! Eu sou o João Paulo 👋
 
 ### Sobre mim
 
@@ -24,8 +24,8 @@
 ### GitHub Stats ⚡
 <div>
   <a href="https://github.com/jotacloud">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotacloud&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotacloud&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotacloud&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jotacloud&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
